@@ -50,12 +50,6 @@
 
 
 
-## 效果截图
-
-![WechatIMG3](./images/WechatIMG3.jpeg)
-
-![WechatIMG4](./images/WechatIMG4.jpeg)
-
 
 ## 参考项目
 * [NobyDa/Script/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
